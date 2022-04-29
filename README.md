@@ -1,2 +1,1 @@
-# proyecto-clase-22
-clase 22
+# Plantilla-del-proyecto-C22
